@@ -1,5 +1,5 @@
-![Balloon Logo - Dark Mode Optimized](./balloon-logo-inverted.png#gh-dark-mode-only)
-![Balloon Logo - Light Mode Optimized](./balloon-logo-full.png#gh-light-mode-only)
+![Balloon Logo - Dark Mode Optimized](https://raw.githubusercontent.com/balloonmsgr/.github/main/profile/balloon-logo-inverted.png#gh-dark-mode-only)
+![Balloon Logo - Light Mode Optimized](https://raw.githubusercontent.com/balloonmsgr/.github/main/profile/balloon-logo-full.png#gh-light-mode-only)
 # Balloon Messenger
 Messaging apps suck. We're making that better.
 ## Our Goal
